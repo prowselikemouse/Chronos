@@ -1,0 +1,36 @@
+body {
+	margin:0;
+	padding:0;
+	font-family: 'Titillium Web', sans-serif;
+	font-size:100%;
+}
+
+	a {
+		text-decoration:none;
+	}
+
+	a:visited {
+		color:none;
+	}
+
+	a:hover {
+		cursor:pointer;
+		cursor:hand;
+	}
+
+	#home {
+		background-color:#547980;
+	}
+
+	#toplogo {
+		padding-left:7.56666667%;
+		padding-top:0;
+		float:left;
+		margin:0;
+		size:80%;
+	}
+
+	#navigation {
+		float:right;
+		list-style:none;
+	}
